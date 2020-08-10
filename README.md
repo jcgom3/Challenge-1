@@ -1,6 +1,6 @@
-Challenge 1 Code Refactor Final.
+# Challenge 1 Code Refactor
 
-Link to mock up https://jcgom3.github.io/Challenge-1/
+[Link to mock up](www.jcgom3.github.io/Challenge-1/)
 
 Screenshot of Mockup
 
